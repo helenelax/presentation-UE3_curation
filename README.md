@@ -5,3 +5,4 @@ Présentation réalisée dans le cadre de l'UE 3 de la Licence Professionnelle C
 H. Laxenaire - février 2018
 Licence : CC-BY-SA 4.0
 
+Retrouvez cette présentation en ligne : https://gitpitch.com/helenelax/presentation-UE3_curation
