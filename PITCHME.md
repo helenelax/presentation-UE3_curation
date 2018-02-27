@@ -1,33 +1,98 @@
 # La curation
 
-### A GitPitch Presentation Template
+### LP CEEDDR - UE3 - H. Laxenaire - 2018
 
 ---
 
-## Tips!
+## Définition
 
 <br> <!--permet de sauter une ligne-->
 
-@fa[arrows gp-tip](Press F to go Fullscreen)
+<!--@fa[arrows gp-tip]-->
+<!--Mettre à gauche-->
 
-@fa[microphone gp-tip](Press S for Speaker Notes)
-
----
-
-## Template Features
-
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
-- Custom CSS Styling |
-- Slideshow Background Image |
-- Slide-specific Background Images |
-- Custom Logo, TOC, and Footnotes |
+Sélectionner des documents  
+Sur un sujet  
+Pour un public  
+**Plus-value humaine**
 
 ---
 
-texte 1
+## Les sources
 
+### PULL
+Je vais chercher  
+### PUSH
+Je reçois  
 
++++
+
+## Les sources : *votre veille*
+
+Processus itératif et continu  
+On cherche des **sources**  
+On cible un public  
+Trier / Valider / Sélectionner
+
++++
+
+## Les sources : *votre veille*
+
+### PUSH
+
+Agrégateur de flux  
+Pages surveillées  
+Alertes  
+
+Plus d'info : ici [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
+
+---
+
+## Les sources : *les moteurs de recherche*
+
+### PULL
+
+Fonctionnement :
+
+* Index/spider
+* Tri : algorithme
+* Combler la distance entre la requête et la demande réelle
+
++++
+
+## Les sources : *les moteurs de recherche*
+
+Recherche avancée
+
+**Copie d'écran** rappel page similaire
+
++++
+
+## Les sources : *moteurs de recherche et base de données*
+
+Sur e-sidoc
+[Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
+
+---
+
+## Les sources : *les articles scientifiques*
+
+Rappel ?
+Sinon on passe
+
+---
+
+## Les sources : *les médias sociaux*
+
+### Crowdfunding
+
+Permet de bénéficier de la sélection et de la curation d'autres personnes
+
+<!--Ex. Pearltrees-->
+
+Permet de bénéficier de la puissance de l'algorithme de suggestion
+
+<!--Ex. Pinterest-->
 
 
 ---
@@ -41,18 +106,6 @@ eior auirẑeaui rpzeuirùr
 reljze rjezpirup ezru puire  
 
 
-
-
----
-
-## Template Help
-
-- [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-  + [Repo Source](https://github.com/gitpitch/gitpitch/wiki/Code-Delimiter-Slides), [Static Blocks](https://github.com/gitpitch/gitpitch/wiki/Code-Slides), [GIST](https://github.com/gitpitch/gitpitch/wiki/GIST-Slides) 
-- [Custom CSS Styling](https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS)
-- [Slideshow Background Image](https://github.com/gitpitch/gitpitch/wiki/Background-Setting)
-- [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
-- [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
 ---
 
@@ -78,13 +131,7 @@ reljze rjezpirup ezru puire
 
 ### Questions?
 
-<br>
-
-@fa[twitter gp-contact](@gitpitch)
-
-@fa[github gp-contact](gitpitch)
-
-@fa[medium gp-contact](@gitpitch)
+<
 
 ---?image=assets/image/gitpitch-audience.jpg
 
