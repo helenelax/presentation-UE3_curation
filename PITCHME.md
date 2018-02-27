@@ -88,7 +88,9 @@ Agrégateur de flux
 Pages surveillées  
 Alertes  
 
-<i class="fas fa-hand-point-right"></i> [Des outils pour sa veille](http://www.bagtheweb.com/b/bIwEu9)
+<i class="fas fa-hand-point-right"></i> 
+@fa[code-fork]
+[Des outils pour sa veille](http://www.bagtheweb.com/b/bIwEu9)
 
 ---
 
