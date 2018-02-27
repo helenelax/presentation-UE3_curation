@@ -1,0 +1,15 @@
+#
+# GitPitch Slideshow Custom Settings
+#
+# For details, visit Wiki:
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
+#
+
+theme : night
+theme-override : assets/css/PITCHME.css
+logo : assets/image/logo.png
+highlight : atom-one-dark
+transition : zoom
+#published : true
+footnote : "H. Laxenaire - Montpellier SupAgro - Institut de Florac - 2018 - CC By-Sa 4.0"
+
