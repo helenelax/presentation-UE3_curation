@@ -55,9 +55,9 @@ On recherche des **sources** pour recevoir **plus tard** des informations
 <br>
 **Curation**
 
-**Recherche** d'informations (moteur de recherche et/ou résultats de la veille)
-*plus* **Tri**
-*plus* **Éditorialisation**
+*Recherche* d'informations (moteur de recherche et/ou résultats de la veille)
+*plus* *Tri*
+*plus* *Éditorialisation*
 
 ---
 
