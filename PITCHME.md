@@ -21,7 +21,7 @@
 
 ---
 
-## Définition
+### Définition
 
 Sélectionner des documents  
 Sur un sujet  
@@ -29,6 +29,35 @@ Pour un public
 **Plus-value humaine**
 
 ---
+### Veille/Curation/Recherche d'information
+<center>Quelles différences ?</center>
+
++++
+
+@title[Recherche d'information]
+**Recherche d'information** (moteur de recherche)
+
+On cherche directement les informations (*instant T*)
+
++++
+
+@title[Veille]
+**Veille** 
+
+On recherche des **sources** pour recevoir **plus tard** des informations 
+(*instant T+1*)
+
++++
+
+@title[Curation]
+**Curation**
+
+**Recherche** d'informations (moteur de recherche et/ou résultats de la veille)
+*plus* **Tri**
+*plus* **Éditorialisation**
+
+---
+
 
 ### Les sources
 
@@ -77,18 +106,30 @@ Fonctionnement :
 
 ### Les sources : *les moteurs de recherche*
 
+Outils supplémentaires
+
 Recherche avancée
 
-**Copie d'écran** rappel page similaire
+
 
 ---
 
 ### Les sources : *les articles scientifiques*
 
-Rappel ?
+Besoin d'un rappel ?  
+- Définition |
+- Caractéristiques :|
+  - forme figée|
+  - revu par les pairs|
+- Une connaissance en train de se construire|
+
+--- 
+### Les sources : *les articles scientifiques*
 
 https://0489998g.esidoc.fr/rubrique/view/id/6
-Sinon on passe
+![Extrait esidoc](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=moteurs_esidoc.png&t=JhR6jQoHe1nITMY&scalingup=0)
+
+
 
 ---
 
@@ -113,6 +154,7 @@ En préambule, ce qu'ils ont en commun :
 - Collections
 - Bookmarklet ou extension
 - Un vocabulaire spécifique... pour dire la même chose
+- Pas forcément d'interopérabilité
 
 Note: propriété des données, conseils de mots de passe
 
@@ -120,12 +162,21 @@ Note: propriété des données, conseils de mots de passe
 
 ### Présentation d'outil : *Pearltrees*
 
+<div class="left">
+![Pearltrees](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=bagtheweb.jpg&t=XH27eywWC2ysdNM&scalingup=0)
+</div>
+
+<div class="right">
 Organisation arborescente : rubrique, sous-rubrique...  
 ... et/ou en paragraphe  
 Possibilité d'ajouter des commentaires et des notes  
 Possibilité d'ajouter des sélections (*pearltrees*) réalisées par d'autres
 Perleur (extension)  
 Possibilité d'intégration dans un site  
+
+</div>
+
+
 
 +++
 
@@ -141,20 +192,20 @@ Attention : peut disparaitre
 
 ### Présentation d'outil : *Diigo*
 
-Organisation par mot-clés  
-Plus personnel (- social)  
+Organisation par mot-clés   
+Plus personnel (- social)   
 Document de collecte : les outliners  
 Possibilité d'annoter  
 
 ---
 
-### Limites
+### Les écueils de la curation
 
-Interopérabilité des données  
 Propriété intellectuelle  
+Diffuser sans lire  
 
-### Pièges à éviter
-Diffuser sans lire
+
+
 
 
 
