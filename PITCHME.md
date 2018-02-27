@@ -10,6 +10,9 @@
 <!--permet d'ajouter une icone : https://fontawesome.com/icons?d=gallery-->
 <!--@fa[arrows]-->
 
+<!--permet de sauter une ligne-->
+<!--<br>-->
+
 
 # La curation
 
@@ -20,12 +23,6 @@
 
 ## Définition
 
-<br> <!--permet de sauter une ligne-->
-
-
-<!--Mettre à gauche-->
-
-
 Sélectionner des documents  
 Sur un sujet  
 Pour un public  
@@ -34,7 +31,7 @@ Pour un public
 ---
 
 ### Les sources
-<br>
+
 <div class="centrage">
 **PULL**  
 Je vais chercher  
@@ -62,7 +59,7 @@ Agrégateur de flux
 Pages surveillées  
 Alertes  
 
-Plus d'info : ici [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
+@fa[hand-point-right]  [Des outils pour sa veille](http://www.bagtheweb.com/b/bIwEu9)
 
 ---
 
@@ -84,18 +81,13 @@ Recherche avancée
 
 **Copie d'écran** rappel page similaire
 
-+++
-
-## Les sources : *moteurs de recherche et base de données*
-
-Sur e-sidoc
-[Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Code-Presenting)
-
 ---
 
 ### Les sources : *les articles scientifiques*
 
 Rappel ?
+
+https://0489998g.esidoc.fr/rubrique/view/id/6
 Sinon on passe
 
 ---
@@ -112,19 +104,62 @@ Permet de bénéficier de la puissance de l'algorithme de suggestion
 
 <!--Ex. Pinterest-->
 
-
 ---
 
-### Présentation d'outil
+### Présentation d'outils
 
 En préambule, ce qu'ils ont en commun :   
 - Création d'un compte
 - Collections
 - Bookmarklet ou extension
+- Un vocabulaire spécifique... pour dire la même chose
+
+Note: propriété des données, conseils de mots de passe
 
 +++
 
-### Présentation d'outil : *Pearltrees
+### Présentation d'outil : *Pearltrees*
+
+Organisation arborescente : rubrique, sous-rubrique...  
+... et/ou en paragraphe  
+Possibilité d'ajouter des commentaires et des notes  
+Possibilité d'ajouter des sélections (*pearltrees*) réalisées par d'autres
+Perleur (extension)  
+Possibilité d'intégration dans un site  
+
++++
+
+### Présentation d'outil : *Bag the web*
+
+Organisation en paragraphes  
+Possibilité de créer des liens entre les sélections (*bag*)  
+Bookmarklet  
+Possibilité d'intégration dans un site  
+Attention : peut disparaitre
+
++++
+
+### Présentation d'outil : *Diigo*
+
+Organisation par mot-clés  
+Plus personnel (- social)  
+Document de collecte : les outliners  
+Possibilité d'annoter  
+
+---
+
+### Limites
+
+Interopérabilité des données  
+Propriété intellectuelle  
+
+### Pièges à éviter
+Diffuser sans lire
+
+
+
+
+
 
 
 
