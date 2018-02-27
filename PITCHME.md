@@ -145,9 +145,12 @@ NON
 --- 
 ### Les sources : *les articles scientifiques*
 
+<div class="left">
 ![Extrait esidoc](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=moteurs_esidoc.png&t=JhR6jQoHe1nITMY&scalingup=0)
-
+</div>
+<div class="right">
 <span style="font-size: 0.8em">https://0489998g.esidoc.fr/rubrique/view/id/6</span>
+</div>
 
 ---
 
@@ -155,9 +158,9 @@ NON
 
 **Crowdsourcing**
 
-Permet de bénéficier de la sélection et de la curation d'autres personnes
+Permet de bénéficier de la sélection et de la curation d'autres personnes  
 <!--Ex. Pearltrees-->
-Permet de bénéficier de la puissance de l'algorithme de suggestion
+Permet de bénéficier de la puissance de l'algorithme de suggestion  
 <!--Ex. Pinterest-->
 
 ---
@@ -182,13 +185,14 @@ Note: propriété des données, conseils de mots de passe
 </div>
 
 <div class="right">
-* Organisation arborescente : rubrique, sous-rubrique...  
-* ... et/ou en paragraphe  
-* Possibilité d'ajouter des commentaires et des notes  
-* Possibilité d'ajouter des sélections (*pearltrees*) réalisées par d'autres
-* Perleur (extension)  
-* Possibilité d'intégration dans un site  
-
+    <ul>
+        <li>Organisation arborescente : rubrique, sous-rubrique...</li> 
+        <li>... et/ou en paragraphe</li>  
+        <li>Possibilité d'ajouter des commentaires et des notes</li>
+        <li>Possibilité d'ajouter des sélections réalisées par d'autres</li>
+        <li>Perleur (extension)</li>
+        <li>Possibilité d'intégration dans un site</li>
+    </ul>
 </div>
 
 
@@ -219,10 +223,12 @@ Note: propriété des données, conseils de mots de passe
 </div>
 
 <div class="right">
-- Organisation par mot-clés   
-- Plus personnel (- social)   
-- Document de collecte : les outliners  
-- Possibilité d'annoter  
+    <ul>
+        <li>Organisation par mot-clés</li>
+        <li>Plus personnel (- social)</li>  
+        <li>Document de collecte : les outliners</li>
+        <li>Possibilité d'annoter</li>
+    </ul>
 </div>
 ---
 
