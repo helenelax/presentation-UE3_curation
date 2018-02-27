@@ -88,7 +88,6 @@ Agrégateur de flux
 Pages surveillées  
 Alertes  
 
-<i class="fas fa-hand-point-right"></i> 
 
 @fa[arrow-circle-right]
 [Des outils pour sa veille](http://www.bagtheweb.com/b/bIwEu9)
@@ -99,9 +98,9 @@ Alertes
 
 **PULL**
 
-* Index/spider
-* Tri : algorithme
-* Combler la distance entre la requête et la demande réelle
+Index/spider  
+Tri : algorithme  
+Combler la distance entre la requête et la demande réelle  
 
 +++
 
@@ -126,29 +125,29 @@ Recherche avancée
 Besoin d'un rappel ?  
 
 <div class="left">
-OUI
+OUI @fa[arrow-circle-right]
 </div>
 
 <div class="right">
 NON
 </div>
+
 +++
 
 ### Les sources : *les articles scientifiques*
 
-- Définition |
-- Caractéristiques :|
+- Définition 
+- Caractéristiques :
   - forme figée|
-  - revu par les pairs|
-- Une connaissance en train de se construire|
+  - revu par les pairs
+- Une connaissance en train de se construire
 
 --- 
 ### Les sources : *les articles scientifiques*
 
-https://0489998g.esidoc.fr/rubrique/view/id/6
 ![Extrait esidoc](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=moteurs_esidoc.png&t=JhR6jQoHe1nITMY&scalingup=0)
 
-
+<span style="font-size: 0.8em">https://0489998g.esidoc.fr/rubrique/view/id/6</span>
 
 ---
 
@@ -157,11 +156,8 @@ https://0489998g.esidoc.fr/rubrique/view/id/6
 **Crowdsourcing**
 
 Permet de bénéficier de la sélection et de la curation d'autres personnes
-
 <!--Ex. Pearltrees-->
-
 Permet de bénéficier de la puissance de l'algorithme de suggestion
-
 <!--Ex. Pinterest-->
 
 ---
