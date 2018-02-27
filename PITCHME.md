@@ -89,7 +89,8 @@ Pages surveillées
 Alertes  
 
 <i class="fas fa-hand-point-right"></i> 
-@fa[code-fork]
+
+@fa[arrow-circle-right]
 [Des outils pour sa veille](http://www.bagtheweb.com/b/bIwEu9)
 
 ---
@@ -97,8 +98,6 @@ Alertes
 ### Les sources : *les moteurs de recherche*
 
 **PULL**
-
-Fonctionnement :
 
 * Index/spider
 * Tri : algorithme
@@ -187,12 +186,12 @@ Note: propriété des données, conseils de mots de passe
 </div>
 
 <div class="right">
-Organisation arborescente : rubrique, sous-rubrique...  
-... et/ou en paragraphe  
-Possibilité d'ajouter des commentaires et des notes  
-Possibilité d'ajouter des sélections (*pearltrees*) réalisées par d'autres
-Perleur (extension)  
-Possibilité d'intégration dans un site  
+* Organisation arborescente : rubrique, sous-rubrique...  
+* ... et/ou en paragraphe  
+* Possibilité d'ajouter des commentaires et des notes  
+* Possibilité d'ajouter des sélections (*pearltrees*) réalisées par d'autres
+* Perleur (extension)  
+* Possibilité d'intégration dans un site  
 
 </div>
 
@@ -206,12 +205,15 @@ Possibilité d'intégration dans un site
 ![Bag the web](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=bagtheweb.jpg&t=XH27eywWC2ysdNM&scalingup=0)
 </div>
 <div class="right">
-Organisation en paragraphes  
-Possibilité de créer des liens entre les sélections (*bag*)  
-Bookmarklet  
-Possibilité d'intégration dans un site  
-Attention : peut disparaitre
+    <ul>
+        <li>Organisation en paragraphes</li>
+        <li>Possibilité de créer des liens entre les sélections (*bag*)</li> 
+        <li>Bookmarklet</li>  
+        <li>Possibilité d'intégration dans un site</li> 
+        <li>Attention : peut disparaitre</li>
+    </ul>
 </div>
+
 +++
 
 ### Présentation d'outil : *Diigo*
