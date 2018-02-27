@@ -27,6 +27,12 @@ body {
   border-radius: 10px;
 }
 
+/*ajout LN pour aligner à gauche*/
+.reveal .slides {
+    text-align: left;
+}
+/*fin ajout*/
+
 .reveal .slides section .code-presenting-annotation {
   color: white;
   background: #af5a0e; /*orange foncé*/
@@ -35,6 +41,13 @@ body {
   opacity: 0.75 !important;
   font-size: 50% !important;
 }
+
+/*ajout Hélène pour aligner à gauche*/
+.reveal .slides section>* {
+    margin-left: 0;
+    margin-right: 0;
+}
+/*fin ajout LN*/
 
 .reveal p span.slide-title {
   color: white;
@@ -75,6 +88,10 @@ body {
 
 .white {
   color: white;
+}
+
+.centrage {
+  text-align:center;
 }
 
 .gp-tip { font-size : 1.5em; }
