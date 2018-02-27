@@ -6,7 +6,7 @@
 
 ## Tips!
 
-<br> <!-essai de comentaire-->
+<br> <!--essai de commentaire-->
 
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
