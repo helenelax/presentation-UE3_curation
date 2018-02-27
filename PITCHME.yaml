@@ -15,3 +15,4 @@ transition : fade
 footnote : "H. Laxenaire - Montpellier SupAgro - Institut de Florac - 2018 - CC By-Sa 4.0"
 slide-number : true
 #background : assets/image/triangles.svg
+vertical-center : false #aligne sur le haut du slide

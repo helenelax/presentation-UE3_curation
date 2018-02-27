@@ -10,9 +10,6 @@
 <!--permet d'ajouter une icone : https://fontawesome.com/icons?d=gallery-->
 <!--@fa[arrows]-->
 
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/sunkist)
-
-
 
 # La curation
 
@@ -28,12 +25,12 @@
 
 <!--Mettre à gauche-->
 
-
+<div class="text-align: left;">
 Sélectionner des documents  
 Sur un sujet  
 Pour un public  
 **Plus-value humaine**
-
+</div>
 ---
 
 ### Les sources
