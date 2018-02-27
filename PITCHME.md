@@ -1,6 +1,23 @@
+
+<!--Memento-->
+
+<!-- Permet de personnaliser le texte qui apparait dans TOC-->
+<!-- @title[titre modifié]-->
+
+<!-- Permet d'avoir un cartouche autour du titre-->
+<!--<p><span class="slide-title">JavaScript Block</span></p>-->
+
+<!--permet d'ajouter une icone : https://fontawesome.com/icons?d=gallery-->
+<!--@fa[arrows]-->
+
+### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/sunkist)
+
+
+
 # La curation
 
-### LP CEEDDR - UE3 - H. Laxenaire - 2018
+### LP CEEDDR - UE3 
+#### H. Laxenaire - 2018
 
 ---
 
@@ -8,8 +25,9 @@
 
 <br> <!--permet de sauter une ligne-->
 
-<!--@fa[arrows gp-tip]-->
+
 <!--Mettre à gauche-->
+
 
 Sélectionner des documents  
 Sur un sujet  
@@ -18,16 +36,17 @@ Pour un public
 
 ---
 
-## Les sources
+### Les sources
 
-### PULL
+**PULL**  
 Je vais chercher  
-### PUSH
+
+**PUSH**  
 Je reçois  
 
 +++
 
-## Les sources : *votre veille*
+### Les sources : *votre veille*
 
 Processus itératif et continu  
 On cherche des **sources**  
@@ -36,9 +55,9 @@ Trier / Valider / Sélectionner
 
 +++
 
-## Les sources : *votre veille*
+### Les sources : *votre veille*
 
-### PUSH
+**PUSH**  
 
 Agrégateur de flux  
 Pages surveillées  
@@ -48,9 +67,9 @@ Plus d'info : ici [Code Presenting](https://github.com/gitpitch/gitpitch/wiki/Co
 
 ---
 
-## Les sources : *les moteurs de recherche*
+### Les sources : *les moteurs de recherche*
 
-### PULL
+**PULL**
 
 Fonctionnement :
 
@@ -60,7 +79,7 @@ Fonctionnement :
 
 +++
 
-## Les sources : *les moteurs de recherche*
+### Les sources : *les moteurs de recherche*
 
 Recherche avancée
 
@@ -75,16 +94,16 @@ Sur e-sidoc
 
 ---
 
-## Les sources : *les articles scientifiques*
+### Les sources : *les articles scientifiques*
 
 Rappel ?
 Sinon on passe
 
 ---
 
-## Les sources : *les médias sociaux*
+### Les sources : *les médias sociaux*
 
-### Crowdfunding
+**Crowdsourcing**
 
 Permet de bénéficier de la sélection et de la curation d'autres personnes
 
@@ -97,46 +116,20 @@ Permet de bénéficier de la puissance de l'algorithme de suggestion
 
 ---
 
-@title[JavaScript Block modifié]
+### Présentation d'outil
 
-<p><span class="slide-title">JavaScript Block</span></p>
+En préambule, ce qu'ils ont en commun :   
+- Création d'un compte
+- Collections
+- Bookmarklet ou extension
 
-## titre 2
-eior auirẑeaui rpzeuirùr  
-reljze rjezpirup ezru puire  
++++
+
+### Présentation d'outil : *Pearltrees
 
 
 
----
 
-## Go GitPitch Pro!
 
-<br>
-<div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-   
-    More details here.
-</div>
-<div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
-</div>
 
----
-
-### Questions?
-
-<
-
----?image=assets/image/gitpitch-audience.jpg
-
-@title[Download this Template!]
-
-### <span class="white">Get your presentation started!</span>
-### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/sunkist)
 
