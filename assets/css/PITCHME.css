@@ -69,7 +69,7 @@ body {
 }
 
 #gp-logo img {
-  max-height: 3em;
+  max-height: 4em; /*change la taille du logo*/
   max-width: none;
 }
 
