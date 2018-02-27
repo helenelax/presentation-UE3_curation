@@ -25,16 +25,16 @@
 
 <!--Mettre à gauche-->
 
-<div class="text-align: left;">
+<span style="text-align: left;">
 Sélectionner des documents  
 Sur un sujet  
 Pour un public  
 **Plus-value humaine**
-</div>
+</span>
 ---
 
 ### Les sources
-
+<br>
 **PULL**  
 Je vais chercher  
 
