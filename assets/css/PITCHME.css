@@ -29,7 +29,7 @@ body {
 
 .reveal .slides section .code-presenting-annotation {
   color: white;
-  background: #af5a0e;
+  background: #af5a0e; /*orange foncé*/
   padding: 1px 15px;
   border-radius: 15px;
   opacity: 0.75 !important;
@@ -38,7 +38,7 @@ body {
 
 .reveal p span.slide-title {
   color: white;
-  background: #e27b1f;
+  background: #e27b1f; /*orange*/
   padding: 4px 15px;
   opacity: 0.75 !important;
   border-radius: 15px;

@@ -6,7 +6,7 @@
 
 ## Tips!
 
-<br> <!--essai de commentaire-->
+<br> <!--permet de sauter une ligne-->
 
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
@@ -32,7 +32,7 @@ texte 1
 
 ---
 
-@title[JavaScript Block]
+@title[JavaScript Block modifié]
 
 <p><span class="slide-title">JavaScript Block</span></p>
 
@@ -61,8 +61,8 @@ reljze rjezpirup ezru puire
 <br>
 <div class="left">
     <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
+   
+    More details here.
 </div>
 <div class="right">
     <ul>
