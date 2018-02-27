@@ -62,11 +62,11 @@ On recherche des **sources** pour recevoir **plus tard** des informations
 ### Les sources
 
 <div class="centrage">
-**PULL**  
-Je vais chercher  
-
-**PUSH**  
-Je reçois  
+**PULL**<br>
+Je vais chercher<br>
+<br>
+**PUSH**<br>
+Je reçois<br>
 </div>
 
 +++
@@ -88,9 +88,7 @@ Agrégateur de flux
 Pages surveillées  
 Alertes  
 
-@fa[hand-point-right]
-@fa[code-fork] [Des outils pour sa veille](http://www.bagtheweb.com/b/bIwEu9)
-@fa[umbrella fa-5x]
+<i class="fas fa-hand-point-right"></i> [Des outils pour sa veille](http://www.bagtheweb.com/b/bIwEu9)
 
 ---
 
