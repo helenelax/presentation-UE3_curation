@@ -12,6 +12,5 @@ highlight : atom-one-dark
 transition : fade
 #transition possible : convex, concave, default, fade, none, slide (par defaut) and zoom
 #published : true
-#footnote : "H. Laxenaire - Montpellier SupAgro - Institut de Florac - 2018 - CC By-Sa 4.0"
-footnote : "<a href='#/2'>Presentation Menu</a>"
+footnote : "H. Laxenaire - Montpellier SupAgro - Institut de Florac - 2018 - CC By-Sa 4.0"
 slide-number : true
