@@ -38,7 +38,7 @@ body {
   background: #af5a0e; /*orange foncé*/
   padding: 1px 15px;
   border-radius: 15px;
-  /*opacity: 0.75 !important;*/
+  opacity: 0.75 !important;
   font-size: 50% !important;
 }
 
