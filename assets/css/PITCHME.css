@@ -100,3 +100,12 @@ body {
 
 .gp-download { margin-left: 10px; }
 
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  text-align : center;
+}
+
