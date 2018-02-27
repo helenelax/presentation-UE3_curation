@@ -125,11 +125,11 @@ Recherche avancée
 Besoin d'un rappel ?  
 
 <div class="left">
-OUI @fa[arrow-circle-right]
+OUI @fa[arrow-circle-down]
 </div>
 
 <div class="right">
-NON
+NON @fa[arrow-circle-right]
 </div>
 
 +++
