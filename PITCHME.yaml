@@ -9,9 +9,9 @@ theme : night
 theme-override : assets/css/PITCHME.css
 #logo : assets/image/logo.png
 highlight : atom-one-dark
-transition : convex
+transition : fade
 #transition possible : convex, concave, default, fade, none, slide (par defaut) and zoom
-#published : true
+published : true
 footnote : "H. Laxenaire - Montpellier SupAgro - Institut de Florac - 2018 - CC By-Sa 4.0"
 slide-number : true
 #background : assets/image/triangles.svg

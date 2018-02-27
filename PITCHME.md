@@ -88,7 +88,9 @@ Agrégateur de flux
 Pages surveillées  
 Alertes  
 
-@fa[hand-point-right]  [Des outils pour sa veille](http://www.bagtheweb.com/b/bIwEu9)
+@fa[hand-point-right]
+@fa[code-fork] [Des outils pour sa veille](http://www.bagtheweb.com/b/bIwEu9)
+@fa[umbrella fa-5x]
 
 ---
 
@@ -108,8 +110,14 @@ Fonctionnement :
 
 Outils supplémentaires
 
-Recherche avancée
+![Outils](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=Google_outils.png&t=L59ONLYPxnFME84&scalingup=0)
 
++++
+
+### Les sources : *les moteurs de recherche*
+
+Recherche avancée
+![Recherche experte](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=Startpage_recherche_avancee.png&t=28pkX5oZxmrEZu8&scalingup=0)
 
 
 ---
@@ -117,6 +125,18 @@ Recherche avancée
 ### Les sources : *les articles scientifiques*
 
 Besoin d'un rappel ?  
+
+<div class="left">
+OUI
+</div>
+
+<div class="right">
+NON
+</div>
++++
+
+### Les sources : *les articles scientifiques*
+
 - Définition |
 - Caractéristiques :|
   - forme figée|
@@ -163,7 +183,7 @@ Note: propriété des données, conseils de mots de passe
 ### Présentation d'outil : *Pearltrees*
 
 <div class="left">
-![Pearltrees](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=bagtheweb.jpg&t=XH27eywWC2ysdNM&scalingup=0)
+![Pearltrees](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=pearltrees_logo.png&t=6P8QJEgxJNTZxzU&scalingup=0)
 </div>
 
 <div class="right">
@@ -182,21 +202,30 @@ Possibilité d'intégration dans un site
 
 ### Présentation d'outil : *Bag the web*
 
+<div class="left">
+![Bag the web](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=bagtheweb.jpg&t=XH27eywWC2ysdNM&scalingup=0)
+</div>
+<div class="right">
 Organisation en paragraphes  
 Possibilité de créer des liens entre les sélections (*bag*)  
 Bookmarklet  
 Possibilité d'intégration dans un site  
 Attention : peut disparaitre
-
+</div>
 +++
 
 ### Présentation d'outil : *Diigo*
 
-Organisation par mot-clés   
-Plus personnel (- social)   
-Document de collecte : les outliners  
-Possibilité d'annoter  
+<div class="left">
+![Diigo](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=diigoLOGO_transparent.png&t=NJhTNyeWO65CuJg&scalingup=0)
+</div>
 
+<div class="right">
+- Organisation par mot-clés   
+- Plus personnel (- social)   
+- Document de collecte : les outliners  
+- Possibilité d'annoter  
+</div>
 ---
 
 ### Les écueils de la curation
