@@ -35,6 +35,7 @@ Pour un public
 +++
 
 @title[Recherche d'information]
+<br>
 **Recherche d'information** (moteur de recherche)
 
 On cherche directement les informations (*instant T*)
@@ -42,6 +43,7 @@ On cherche directement les informations (*instant T*)
 +++
 
 @title[Veille]
+<br>
 **Veille** 
 
 On recherche des **sources** pour recevoir **plus tard** des informations 
@@ -50,6 +52,7 @@ On recherche des **sources** pour recevoir **plus tard** des informations
 +++
 
 @title[Curation]
+<br>
 **Curation**
 
 **Recherche** d'informations (moteur de recherche et/ou résultats de la veille)
@@ -138,7 +141,7 @@ NON @fa[arrow-circle-right]
 
 - Définition 
 - Caractéristiques :
-  - forme figée|
+  - forme fixée
   - revu par les pairs
 - Une connaissance en train de se construire
 
@@ -187,7 +190,7 @@ Note: propriété des données, conseils de mots de passe
 <div class="right">
     <ul>
         <li>Organisation arborescente : rubrique, sous-rubrique...</li> 
-        <li>... et/ou en paragraphe</li>  
+        <li>... et/ou en paragraphe</li>
         <li>Possibilité d'ajouter des commentaires et des notes</li>
         <li>Possibilité d'ajouter des sélections réalisées par d'autres</li>
         <li>Perleur (extension)</li>
@@ -208,7 +211,7 @@ Note: propriété des données, conseils de mots de passe
     <ul>
         <li>Organisation en paragraphes</li>
         <li>Possibilité de créer des liens entre les sélections (*bag*)</li> 
-        <li>Bookmarklet</li>  
+        <li>Bookmarklet</li>
         <li>Possibilité d'intégration dans un site</li> 
         <li>Attention : peut disparaitre</li>
     </ul>
@@ -225,7 +228,7 @@ Note: propriété des données, conseils de mots de passe
 <div class="right">
     <ul>
         <li>Organisation par mot-clés</li>
-        <li>Plus personnel (- social)</li>  
+        <li>Plus personnel (- social)</li>
         <li>Document de collecte : les outliners</li>
         <li>Possibilité d'annoter</li>
     </ul>
