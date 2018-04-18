@@ -111,14 +111,14 @@ Combler la distance entre la requête et la demande réelle
 
 Outils supplémentaires
 
-![Outils](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=Google_outils.png&t=L59ONLYPxnFME84&scalingup=0)
+![Outils](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/Google_outils.png)
 
 +++
 
 ### Les sources : *les moteurs de recherche*
 
 Recherche avancée
-![Recherche experte](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=Startpage_recherche_avancee.png&t=28pkX5oZxmrEZu8&scalingup=0)
+![Recherche experte](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/Startpage_recherche_avancee.png)
 
 
 ---
@@ -149,7 +149,7 @@ NON @fa[arrow-circle-right]
 ### Les sources : *les articles scientifiques*
 
 <div class="left">
-![Extrait esidoc](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=moteurs_esidoc.png&t=JhR6jQoHe1nITMY&scalingup=0)
+![Extrait esidoc](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/moteurs_esidoc.png)
 </div>
 <div class="right">
 <span style="font-size: 0.8em">https://0489998g.esidoc.fr/rubrique/view/id/6</span>
@@ -184,7 +184,7 @@ Note: propriété des données, conseils de mots de passe
 ### Présentation d'outil : *Pearltrees*
 
 <div class="left">
-![Pearltrees](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=pearltrees_logo.png&t=6P8QJEgxJNTZxzU&scalingup=0)
+![Pearltrees](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/pearltrees_logo.png)
 </div>
 
 <div class="right">
@@ -205,7 +205,7 @@ Note: propriété des données, conseils de mots de passe
 ### Présentation d'outil : *Bag the web*
 
 <div class="left">
-![Bag the web](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=bagtheweb.jpg&t=XH27eywWC2ysdNM&scalingup=0)
+![Bag the web](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/bagtheweb.jpg)
 </div>
 <div class="right">
     <ul>
@@ -222,7 +222,7 @@ Note: propriété des données, conseils de mots de passe
 ### Présentation d'outil : *Diigo*
 
 <div class="left">
-![Diigo](https://ncloud.zaclys.com/index.php/apps/files_sharing/ajax/publicpreview.php?x=1235&y=329&a=true&file=diigoLOGO_transparent.png&t=NJhTNyeWO65CuJg&scalingup=0)
+![Diigo](http://www.lamerguez.com/presentations_GitPich/presentation-UE3_curation/diigoLOGO_transparent.png)
 </div>
 
 <div class="right">
