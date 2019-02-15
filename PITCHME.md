@@ -17,7 +17,7 @@
 # La curation
 
 ### LP CEEDDR - UE3 
-#### H. Laxenaire - 2018
+#### H. Laxenaire - 2019
 
 ---
 
